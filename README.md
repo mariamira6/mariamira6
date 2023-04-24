@@ -26,7 +26,11 @@
 
 <hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamira6&show_icons=true&locale=en" alt="mariamira6" /></p>
+<div align="center"
+     
+[![mariamira6's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamira6)](https://github.com/mariamira6/github-readme-stats)
+
+</div>
 
 <div align="center">
 
