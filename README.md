@@ -27,8 +27,7 @@
 <hr>
 
 <div align="center"
-     
-[![mariamira6's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamira6)](https://github.com/mariamira6/github-readme-stats)
+    
 
 </div>
 
