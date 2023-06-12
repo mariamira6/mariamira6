@@ -15,7 +15,7 @@
 <h3 align="left">Proyectos... 🗂</h3>
 <p align="left"><a href="https://store.candykoa.com" target="blank">▫ 🍭 CandyKoa - Tienda de dulces internacionales online 🍭</a></p>
 <li>Herramientas utilizadas: VueJS, Pinia y TailwindCSS</li>
-
+<hr>
 <p align="left"><a href="https://bases.maria-mira.com" target="blank">▫ 👩🏻‍💻 Proyecto de Bases de Programación 👩🏻‍💻</a></p>
 <li>Herramientas utilizadas: VueJS y TailwindCSS</li>
 
