@@ -16,6 +16,9 @@
 <p align="left"><a href="https://store.candykoa.com" target="blank">▫ 🍭 CandyKoa - Tienda de dulces internacionales online 🍭</a></p>
 <li>Herramientas utilizadas: VueJS, Pinia y TailwindCSS</li>
 
+<p align="left"><a href="https://bases.maria-mira.com" target="blank">▫ 👩🏻‍💻 Proyecto de Bases de Programación 👩🏻‍💻</a></p>
+<li>Herramientas utilizadas: VueJS y TailwindCSS</li>
+
 <h3 align="left">Actualmente busco... 🔍📚</h3>
 <p>▫ Proyectos nuevos en los que seguir creciendo como profesional y que me permitan mejorar mis conocimientos 📈</p>
 <p>▫ Aprender otros Frameworks como React <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> y Bootstrap <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> </p>
