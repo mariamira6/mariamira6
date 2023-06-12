@@ -15,7 +15,8 @@
 <h3 align="left">Proyectos... 🗂</h3>
 <p align="left"><a href="https://store.candykoa.com" target="blank">▫ 🍭 CandyKoa - Tienda de dulces internacionales online 🍭</a></p>
 <li>Herramientas utilizadas: VueJS, Pinia y TailwindCSS</li>
-<hr>
+
+
 <p align="left"><a href="https://bases.maria-mira.com" target="blank">▫ 👩🏻‍💻 Proyecto de Bases de Programación 👩🏻‍💻</a></p>
 <li>Herramientas utilizadas: VueJS y TailwindCSS</li>
 
@@ -27,7 +28,6 @@
 <h3 align="left">Si quieres saber más sobre mi... 🧐</h3>
 <a href="https://www.linkedin.com/in/maria-mira-alaves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a> <a href="mailto:maria.alaves93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<hr>
 
 <div align="center"
     
