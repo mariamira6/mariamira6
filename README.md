@@ -15,7 +15,8 @@
 <img align="center" alt="Postman" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /></p>
 
 <h3 align="left">Proyectos... 🗂</h3>
-<p align="left"><a href="https://store.candykoa.es" target="blank">▫ 🍭 CandyKoa - Tienda de dulces internacionales online 🍭</a> - Herramientas utilizadas: VueJS, Pinia y TailwindCSS</p>
+<p align="left"><a href="https://drive.google.com/file/d/1ldVjIvzhygAunXHLJ6PNyqNURtKmRCe6/view?usp=sharing" target="_blank">▫ Prototipo Naure Solutions</a> - Herramientas utilizadas: C#, .NET, Entity Framework, SQL Server, Vue.js, Boostrap.</p>
+<p align="left"><a href="https://store.candykoa.es" target="_blank">▫ 🍭 CandyKoa - Tienda de dulces internacionales online 🍭</a> - Herramientas utilizadas: VueJS, Pinia y TailwindCSS</p>
 
 
 <h3 align="left">Actualmente busco... 🔍📚</h3>
