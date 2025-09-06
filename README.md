@@ -1,5 +1,5 @@
 <h1 align="center"> ¡Hola! Soy María Mira 👩🏻‍💻👋🏻 </h1>
-<p align="center"> 💻✨Desarrolladora Web & Scrum Master✨💻</p>
+<p align="center"> 💻✨Desarrolladora Full Stack & Scrum Master✨💻</p>
 
 ![welcome](github.png)
 
